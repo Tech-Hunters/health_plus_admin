@@ -1,4 +1,4 @@
-# [Health Plus Admin]
+# Health Plus Admin
 
 ## Quick start
 
