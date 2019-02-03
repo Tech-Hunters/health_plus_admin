@@ -73,7 +73,6 @@ class Home extends React.Component {
             <th>ID</th>
             <th>Name</th>
             <th>Email</th>
-            <th>Phone Number</th>
             <th>Image</th>
           </tr>
         </thead>
@@ -84,7 +83,6 @@ class Home extends React.Component {
                 <td>{user.id}</td>
                 <td>{user.name}</td>
                 <td>{user.email}</td>
-                <td>{user.phno}</td>
                 <td>
                   <img
                     src={user.image}
